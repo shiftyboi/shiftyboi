@@ -1,3 +1,1 @@
-Mostly self-taught CS student
-Currently undergoing application process to hopefully study CS at universtity
-Wish me luck!
+Mostly self-taught CS student starting CS at the University of Leeds in September
